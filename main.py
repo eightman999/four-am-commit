@@ -1,6 +1,6 @@
 import os
 
-MESSAGE = "fix: it works now and I have no idea why, which is also how it broke, so the universe is balanced"
+MESSAGE = "fix: works on my machine, which at 4 a.m. is also production, staging, and the only witness"
 
 
 def main() -> None:
